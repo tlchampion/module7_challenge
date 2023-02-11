@@ -78,4 +78,8 @@ License information can be found in the included LICENSE file.
 
 ## Voilà Video
 
-![ETF Analysis Video](./voila_video.mp4)
+
+
+ https://user-images.githubusercontent.com/67286582/218272610-96dbc74d-d5b5-498e-aadf-243f0344aa9b.mp4
+
+
