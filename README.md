@@ -1,6 +1,8 @@
 # Module 7 Challenge
 
-This is the Module 7 Challenge for the FinTech Bootcamp. This challenge's topic is focused on SQL queries and visualizations using a series of ETF analysis tasks.
+This is the Module 7 Challenge for the FinTech Bootcamp. This challenge's topic is focused on SQL queries and visualizations using a series of ETF analysis tasks. 
+
+In addition to using a Jupyter Notebook for analysis tasks, the voilà package was used in order to prepare an interactive webpage for presenting the notebook contents. 
 
 
 
@@ -72,3 +74,8 @@ Code completion by Thomas L. Champion.
 ## License
 
 License information can be found in the included LICENSE file.
+
+
+## Voilà Video
+
+![ETF Analysis Video](./voila_video.mp4)
